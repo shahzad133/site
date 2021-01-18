@@ -29,7 +29,6 @@ p {
 }
 
 hr {
-
   border-style: none;
   border-top-style: dotted;
   border-width: 8px;
@@ -91,9 +90,6 @@ hr {
   clear: right;
 }*/
 
-.footer-link {
-  color: #11999E;
-}
 
 .btn {
   color: #11999E;
@@ -152,4 +148,35 @@ hr {
 
 .media {
   padding-top: 50px;
+}
+
+.nav-bar {
+  position: fixed;
+  top: 50%;
+  right: 0;
+}
+
+.home-link {
+  background-color: #66BFBF;
+  padding: 10px;
+  margin: 1px;
+}
+
+.skills-link {
+  background-color: #66BFBF;
+  padding: 10px;
+  margin: 1px;
+}
+
+.contact-link {
+  background-color: #66BFBF;
+  padding: 10px;
+  margin: 1px;
+}
+
+.nav-link {
+  font-family: 'Montserrat', sans-serif;
+  text-decoration: none;
+  color: #EAF6F6;
+  font-weight: bold;
 }
